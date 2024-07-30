@@ -21,6 +21,7 @@ Gene_ID COG_ID  COG_Category  COG_Description
 gene_1  COG0001 J   Ribosomal protein S12
 gene_2  COG0002 K   Chromatin structure and dynamics
 
-## Citation
+
+# Citation
 If you use this script for your research, please consider citing it as follows:
 Sharma, V. (2024). eggnogCOGextractor.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/eggnogCOGextractor
