@@ -1,10 +1,12 @@
-eggnogCOGextractor.py
+# eggnogCOGextractor.py
 
-Description
-The eggnogCOGextractor.py script is designed to extract and analyze COG (Clusters of Orthologous Groups) features from EggNOG-mapper output files. This script is particularly useful for bioinformaticians working on comparative genomics, functional annotation, and pathway analysis.
+## Description
+The `eggnogCOGextractor.py` script is designed to extract and analyze COG (Clusters of Orthologous Groups) features from EggNOG-mapper output files. This script is particularly useful for bioinformaticians working on comparative genomics, functional annotation, and pathway analysis.
 
-Usage
+## Usage
 To run the script, use the following command:
+
+```bash
 python eggnogCOGextractor.py
 
 Input Example
@@ -19,10 +21,6 @@ Gene_ID COG_ID  COG_Category  COG_Description
 gene_1  COG0001 J   Ribosomal protein S12
 gene_2  COG0002 K   Chromatin structure and dynamics
 
-Citation
+## Citation
 If you use this script for your research, please consider citing it as follows:
-
-Sharma, V. (2024). eggnogCOGextractor.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/Citation
-If you use this script for your research, please consider citing it as follows:
-
-Sharma, V. (2024). eggnogCOGextractor.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/Pathway-Feature-Identification
+Sharma, V. (2024). eggnogCOGextractor.py [Python script]. Retrieved from https://github.com/vsmicrogenomics/eggnogCOGextractor
